@@ -1,16 +1,17 @@
-### Hi there 👋
+Kotlin / Android Mobile Application Developer.
 
-<!--
-**irgaly/irgaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love Kotlin Multiplatform!
 
-Here are some ideas to get you started:
+I can also use iOS Swift, Flutter, Xamarin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Sponsors
+
+Kyash でいーがりーさんを応援できます！
+
+![Kyash](https://github.com/irgaly/irgaly/blob/master/kyash.jpg?raw=true)
+
+or you can become a github sponsor
+
+[Github Sponsors](https://github.com/sponsors/irgaly)
