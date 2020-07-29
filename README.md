@@ -12,6 +12,6 @@ Kyash でいーがりーさんを応援できます！
 
 ![Kyash](https://github.com/irgaly/irgaly/blob/master/kyash.jpg?raw=true)
 
-or you can become a github sponsor
+## Github Sponsor
 
-[Github Sponsors](https://github.com/sponsors/irgaly)
+You can become a [Github Sponsor](https://github.com/sponsors/irgaly)
