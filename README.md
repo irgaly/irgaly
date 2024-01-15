@@ -2,7 +2,7 @@ Kotlin / Android Mobile Application Developer.
 
 I love Kotlin Multiplatform!
 
-I can also use iOS Swift, Flutter, Xamarin.
+I can also use iOS Swift, Flutter.
 
 ---
 
